@@ -32,5 +32,5 @@
 ## Dependencies
 
 - "@11ty/eleventy": "^2.0.1",
-- "sass": "^1.69.0"
+- "sass": "^1.69.5"
 - ready for [Decap CMS](https://decapcms.org/) integration.
